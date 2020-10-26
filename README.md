@@ -3,10 +3,7 @@
 
 ![](http://antzuhl.cn:4000/get/@SmallWhite-CZY.readme)
 
-
-
-
-![info](https://github-readme-stats.vercel.app/api?username=SmallWhite-CZY&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+<i><b>https://api.lyiqk.cn/bing</b></i>
 
 
 
