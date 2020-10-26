@@ -1,14 +1,7 @@
 ### Welcome to Smallwhite Pages 👋
 
 
-![](http://antzuhl.cn:4000/get/@SmallWhite-CZY.readme)
-
-
-
-
-<i><b>
- ![](https://api.lyiqk.cn/bing)
- </b></i>
+![](https://count.getloli.com/get/@:SmallWhite-CZY)
 
 
 
