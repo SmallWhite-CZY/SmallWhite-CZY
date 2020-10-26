@@ -1,7 +1,7 @@
 ### Welcome to Smallwhite Pages 👋
 
 
-![](https://count.getloli.com/get/@:SmallWhite-CZY)
+![](https://count.getloli.com/get/@SmallWhite-CZY)
 
 
 
