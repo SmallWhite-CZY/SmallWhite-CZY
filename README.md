@@ -6,8 +6,8 @@
 
 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SmallWhite-CZY&&show_icons=true&theme=default_repocard&line_height=27&v=5&count_private=true" alt="smallwhite's GitHub Stats" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmallWhite-CZY&theme=default_repocard&layout=compact&hide=glsl,python" />
+<img  src="https://github-readme-stats.vercel.app/api?username=SmallWhite-CZY&&show_icons=true&theme=default_repocard&line_height=27&v=5&count_private=true" alt="smallwhite's GitHub Stats" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmallWhite-CZY&theme=default_repocard&layout=compact&hide=glsl,python" />
 
 ### 🌱 About Me
 ✨if you like these projects,please give me some stars!
