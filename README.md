@@ -6,11 +6,11 @@
 
 
 
-![info](https://github-readme-stats.vercel.app/api?username=SmallWhite-CZY&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmallWhite-CZY&theme=default_repocard&layout=compact&hide=glsl,python" />
 
 ### 🌱 About Me
-
+✨if you like these projects,please give me some stars!
  
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/iPhone-12-D5D4D4?style=flat-square&logo=apple&logoColor=FFFFFF)](https://www.apple.com/)
